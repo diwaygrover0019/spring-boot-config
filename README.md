@@ -5,5 +5,5 @@ This project helps to achieve below goals for our MS
   1) Externalized - using property files
   2) Environment Specific - using Spring Profiles
   3) Consistency - using Spring Cloud Config Server
-  4) Version History
-  5) Real Time Management 
+  4) Version History - using GIT repo source
+  5) Real Time Management - using Spring Boot Actuator REST endpoint
